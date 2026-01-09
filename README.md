@@ -1,9 +1,6 @@
 <div align="center">
-  
-
 
   <h1>👋</h1>
-
   <h3>Senior/Lead PHP • Laravel • AI Developer</h3>
 
   <p>
@@ -18,11 +15,12 @@
     <a href="https://shaerware.digital">
       <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
+    <a href="https://x.com/твой_ник_в_twitter">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
     <a href="https://github.com/ShaerWare">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
 
 </div>
-
-
