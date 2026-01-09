@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149131657.jpg" width="100%" alt="Tech Background"/>
+  
 
-  <br/><br/>
-
-  <img src="https://github.com/ShaerWare.png" width="180" height="180" style="border-radius:50%" alt="ShaerWare"/>
 
   <h1>Привет! Я ShaerWare 👋</h1>
 
@@ -33,8 +30,7 @@
 ### ⚡ Кратко обо мне
 
 - 🔭 Сейчас: Разработка тендерной биржи + AI-ассистент, заменяющий 3–5 сотрудников
-- 🌱 Глубоко в: Laravel 10–12, AI-интеграции (OpenAI / vLLM / LangChain), DDD + Microservices
-- 💼 Стабильный доход как самозанятый: 200–300к ₽/мес
+- 🌱 Глубоко в Laravel 8+, AI-интеграции (OpenAI / vLLM / LangChain), DDD + Microservices
 - 📈 Реализовано: 100+ проектов, 20+ сложных SaaS/финтех/гемблинг/федеральных систем
 - 📫 Самый быстрый способ связи → Telegram: @shaerware
 
