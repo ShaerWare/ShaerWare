@@ -10,8 +10,7 @@
 
   <p>
     <a href="https://shaerware.digital/ru">
-      <img src="https://img.shields.io/badge/Shaerware%20Digital-0d6efd?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a58ca"/>
-    </a>
+      <img src="https://img.shields.io/badge/Shaerware%20Digital-0a58ca?style=for-the-badge&logo=google-chrome&logoColor=0a58ca&labelColor=000000&color=0a58ca" alt="Shaerware Digital"/>    </a>
   </p>
 
 </div>
