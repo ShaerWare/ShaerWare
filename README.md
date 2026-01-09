@@ -2,7 +2,7 @@
   
 
 
-  <h1>Привет! Я ShaerWare 👋</h1>
+  <h1>👋</h1>
 
   <h3>Senior/Lead PHP • Laravel • AI Developer</h3>
 
