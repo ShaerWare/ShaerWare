@@ -9,11 +9,9 @@
   </p>
 
   <p>
- 
     <a href="https://shaerware.digital">
-      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Shaerware%20Digital-0d6efd?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a58ca"/>
     </a>
-    
   </p>
 
 </div>
