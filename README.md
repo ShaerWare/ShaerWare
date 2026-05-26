@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://shaerware.digital/ru">
+    <a href="https://shaerware.github.io/ru">
       <img src="https://img.shields.io/badge/Shaerware%20Digital-0a58ca?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a58ca" alt="Shaerware Digital"/>    </a>
   </p>
 
