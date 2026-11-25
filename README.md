@@ -25,3 +25,20 @@
   </p>
 
 </div>
+
+## Open-source проекты
+
+<a href="https://github.com/ShaerWare/AI_Secretary_System"><img src="https://raw.githubusercontent.com/ShaerWare/AI_Secretary_System/main/docs/assets/hero.ru.svg" alt="AI Secretary System — ИИ-секретарь и менеджер продаж: собирает КП из переписки и не выдумывает цены" width="100%"/></a>
+
+**[AI Secretary System](https://github.com/ShaerWare/AI_Secretary_System)** — self-hosted ИИ-секретарь и менеджер продаж. Собирает коммерческое предложение из переписки в WhatsApp, менеджер утверждает его одной кнопкой в Telegram; цены только из живого каталога. Веб-чат с деревом веток, локальная LLM или Claude/GPT/Gemini, клонирование голоса, Telegram · WhatsApp · виджет · телефония.
+[![Stars](https://img.shields.io/github/stars/ShaerWare/AI_Secretary_System?style=social)](https://github.com/ShaerWare/AI_Secretary_System/stargazers)
+
+Части секретаря, которые работают сами по себе:
+
+| Проект | Что делает | |
+|---|---|---|
+| [**cli-openai-bridge**](https://github.com/ShaerWare/cli-openai-bridge) | Claude Code, Gemini CLI и Shell-GPT как OpenAI-совместимый API: стриминг, сессии, Docker | [![Stars](https://img.shields.io/github/stars/ShaerWare/cli-openai-bridge?style=social)](https://github.com/ShaerWare/cli-openai-bridge) |
+| [**whatsapp-qr-bridge**](https://github.com/ShaerWare/whatsapp-qr-bridge) | Свой WhatsApp-провайдер: телефон по QR или коду → REST и подписанные вебхуки, без Chromium | [![Stars](https://img.shields.io/github/stars/ShaerWare/whatsapp-qr-bridge?style=social)](https://github.com/ShaerWare/whatsapp-qr-bridge) |
+| [**ai-chat-widget**](https://github.com/ShaerWare/ai-chat-widget) | ИИ-чат на любой сайт одним тегом `<script>`: стриминг, сессии, сбор лидов | [![Stars](https://img.shields.io/github/stars/ShaerWare/ai-chat-widget?style=social)](https://github.com/ShaerWare/ai-chat-widget) |
+
+Ещё: [**ai-development-partner**](https://github.com/ShaerWare/ai-development-partner) — системный промпт, который превращает ИИ-ассистента в участника команды: аналитик, техлид, PM, DevOps и бизнес-консультант.
